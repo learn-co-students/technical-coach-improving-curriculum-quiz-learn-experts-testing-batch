@@ -28,7 +28,7 @@
 ?: Who should you @mention when you raise an issue? (check all that apply)
 
 [X] The Section Lead that owns the section of the curriculum
-[X] The Technical Coach Manager
+[ ] The Faculty Manager
 [ ] The Head of Curriculum
 
 ???
