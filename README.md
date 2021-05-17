@@ -25,10 +25,4 @@
 [ ] The files, folders, and/or branch the issue relates to
 [X] All of the above
 
-?: Who should you @mention when you raise an issue? (check all that apply)
-
-[X] The Section Lead that owns the section of the curriculum
-[ ] The Faculty Manager
-[ ] The Head of Curriculum
-
 ???
